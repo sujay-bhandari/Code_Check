@@ -74,6 +74,4 @@ Follow these instructions to get a local copy up and running for development and
 
     Open [http://localhost:9002](http://localhost:9002) in your browser to see the application.
 
-## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
