@@ -1,7 +1,10 @@
 # CodeCheck: AI-Powered Code Analysis
 
 <div align="center">
-  
+    <p>
+    <a href="[https://codecheck-ai.vercel.app/](https://code-checker-tau.vercel.app/)" target="_blank"><strong>View Live Demo »</strong></a>
+  </p>
+
 </div>
 
 <div align="center">
