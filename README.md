@@ -1,7 +1,7 @@
 # CodeCheck: AI-Powered Code Analysis
 
 <div align="center">
-  <img src="https://picsum.photos/seed/codecheck/1200/600" alt="CodeCheck Screenshot" data-ai-hint="code computer abstract" style="border-radius: 8px;"/>
+  
 </div>
 
 <div align="center">
